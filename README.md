@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-```javascript
+
 const developer = {
   name: "Mr COMPAORE Nestor",
   title: "Full Stack Software Engineer",
@@ -71,4 +71,4 @@ const developer = {
 <div align="center"> <a href="mailto:contact.opentechstack@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/open-tech-stack"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/open-tech-stack"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </div> <div align="center">
 
 🌟 <strong>"Let's build something that outlives trends and makes an impact."</strong>
-<!-- 🎬 Animated Footer --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🚀;Let's+collaborate+on+something+amazing!;Open+to+new+opportunities+and+challenges;Keep+coding,+keep+innovating!+💻" alt="Footer Animation" /> <!-- 🐍 Snake Contribution Animation --> <img src="https://raw.githubusercontent.com/open-tech-stack/open-tech-stack/output/github-contribution-grid-snake.svg" alt="snake animation" /> <!-- 👁️ Visitor Counter --> <img src="https://profile-counter.glitch.me/open-tech-stack/count.svg" alt="visitor counter" /> </div> ```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🚀;Let's+collaborate+on+something+amazing!;Open+to+new+opportunities+and+challenges;Keep+coding,+keep+innovating!+💻" alt="Footer Animation" /> <!-- 🐍 Snake Contribution Animation --> <img src="https://raw.githubusercontent.com/open-tech-stack/open-tech-stack/output/github-contribution-grid-snake.svg" alt="snake animation" /> <!-- 👁️ Visitor Counter --> <img src="https://profile-counter.glitch.me/open-tech-stack/count.svg" alt="visitor counter" /> </div> 

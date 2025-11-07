@@ -19,8 +19,6 @@
 
 ## 🎯 About Me
 
-# 👋 Hi there, I'm Mr COMPAORE Nestor  
-
 💻 **Full Stack Software Engineer**  
 📍 **Burkina Faso 🇧🇫**  
 🚀 **Current Focus:** Digital Modernization & Smart Toll Solutions  
@@ -48,19 +46,6 @@ I'm passionate about creating elegant, scalable, and maintainable solutions that
 
 ---
 
-### ☕ Fun Fact  
-> Coffee is my fuel, clean code my therapy.
-
----
-
-### 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🧑‍💻 [GitHub](https://github.com/)  
-- ✉️ *Feel free to reach out for collaboration or just to talk tech.*
-
----
-
-✨ *"Great code is poetry written in logic."*  
 
 
 🛠️ Tech Stack & Architecture

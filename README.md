@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-
+```javascript
 const developer = {
   name: "Mr COMPAORE Nestor",
   title: "Full Stack Software Engineer",
@@ -30,6 +30,7 @@ const developer = {
   learning: ["Advanced System Design", "Cloud Native Architecture", "Web3"],
   funFact: "Coffee is my fuel, clean code my therapy ☕"
 };
+
 
 🛠️ Tech Stack & Architecture
 💻 Programming Languages

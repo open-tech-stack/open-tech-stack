@@ -19,18 +19,49 @@
 
 ## 🎯 About Me
 
-```javascript
-const developer = {
-  name: "Mr COMPAORE Nestor",
-  title: "Full Stack Software Engineer",
-  location: "Burkina Faso 🇧🇫",
-  currentFocus: "Digital Modernization & Smart Toll Solutions",
-  passions: ["Clean Architecture", "Scalable Systems", "User Experience", "Open Source"],
-  philosophy: "Build systems that scale. Write code that speaks. Design with purpose.",
-  learning: ["Advanced System Design", "Cloud Native Architecture", "Web3"],
-  funFact: "Coffee is my fuel, clean code my therapy ☕"
-};
- ```
+# 👋 Hi there, I'm Mr COMPAORE Nestor  
+
+💻 **Full Stack Software Engineer**  
+📍 **Burkina Faso 🇧🇫**  
+🚀 **Current Focus:** Digital Modernization & Smart Toll Solutions  
+
+---
+
+### 🧠 About Me  
+> “Build systems that scale. Write code that speaks. Design with purpose.”  
+
+I'm passionate about creating elegant, scalable, and maintainable solutions that make technology simple and impactful.  
+
+---
+
+### ⚙️ What I Love Working On  
+- 🏗️ Clean Architecture & Scalable Systems  
+- 🎨 User Experience & Modern Frontend  
+- 🌍 Open Source Contributions  
+
+---
+
+### 📚 Currently Learning  
+- Advanced System Design  
+- Cloud Native Architecture  
+- Web3 Fundamentals  
+
+---
+
+### ☕ Fun Fact  
+> Coffee is my fuel, clean code my therapy.
+
+---
+
+### 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🧑‍💻 [GitHub](https://github.com/)  
+- ✉️ *Feel free to reach out for collaboration or just to talk tech.*
+
+---
+
+✨ *"Great code is poetry written in logic."*  
+
 
 🛠️ Tech Stack & Architecture
 💻 Programming Languages

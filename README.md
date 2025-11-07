@@ -30,7 +30,7 @@ const developer = {
   learning: ["Advanced System Design", "Cloud Native Architecture", "Web3"],
   funFact: "Coffee is my fuel, clean code my therapy ☕"
 };
-
+ ```
 
 🛠️ Tech Stack & Architecture
 💻 Programming Languages
@@ -73,3 +73,5 @@ const developer = {
 
 🌟 <strong>"Let's build something that outlives trends and makes an impact."</strong>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🚀;Let's+collaborate+on+something+amazing!;Open+to+new+opportunities+and+challenges;Keep+coding,+keep+innovating!+💻" alt="Footer Animation" /> <!-- 🐍 Snake Contribution Animation --> <img src="https://raw.githubusercontent.com/open-tech-stack/open-tech-stack/output/github-contribution-grid-snake.svg" alt="snake animation" /> <!-- 👁️ Visitor Counter --> <img src="https://profile-counter.glitch.me/open-tech-stack/count.svg" alt="visitor counter" /> </div> 
+
+
